@@ -1,0 +1,23 @@
+---
+title: "nikolestat"
+about:
+  template: jolla
+  image: website_files/profile_pic.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+toc: false
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

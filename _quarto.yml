@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "nikolestat"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: website_files/resume.pdf
+        text: Resume
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
